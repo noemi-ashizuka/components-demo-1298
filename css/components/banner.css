@@ -1,0 +1,9 @@
+.banner {
+  color: white;
+  padding: 120px 40px;
+  text-shadow: 0 0 8px rgba(0 0 0 0.5)
+}
+
+.banner h1 {
+  margin: 0;
+}
